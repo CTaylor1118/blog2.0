@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyStringkfsjsa;dlfjk;aslkdf
+  article: MyTextsdfhasfjasfsdfasdfjasdklfjlaksjdf
+  likes: 1
+  status: 1
+
+two:
+  title: MyStringasfdjasldkfjal;s
+  article: MyTextaskjdfhaskjsdfkjasdfkjsalkdjflk
+  likes: 1
+  status: 1
